@@ -1,6 +1,6 @@
 # Hi it's Mahdi!
 
-PhD student @[scripps research](https://www.scripps.edu/)
+PhD student @[Scripps Research](https://www.scripps.edu/)
 
 Educated in Statistics,Biostatistics, Genomics
 
