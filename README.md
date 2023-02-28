@@ -1,4 +1,4 @@
-# Hi it's Mahdi!
+# Hello, it's Mahdi!
 
 PhD student @[Scripps Research](https://www.scripps.edu/)
 
