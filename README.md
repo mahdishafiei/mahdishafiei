@@ -1,6 +1,6 @@
 # Hello, it's Mahdi!
 
-PhD student @[Scripps Research](https://www.scripps.edu/)
+PhD student @[Scripps Research](https://www.scripps.edu/) in [PejLab](https://pejlab.org/)
 
 Educated in Statistics,Biostatistics, Genomics
 
