@@ -1,6 +1,6 @@
 # Hello, it's Mahdi!
 
-PhD student Bioinformatics @[Scripps Research](https://www.scripps.edu/) 
+PhD candidate @[Scripps Research](https://www.scripps.edu/) 
 
 Educated in Biostatistics, Machine learning, Immunology, structural biology, and Genomics
 
