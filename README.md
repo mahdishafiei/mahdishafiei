@@ -15,11 +15,11 @@
   </a>
 </p>
 
-## About Me
+### About Me
 
 I'm a computational biologist focused on developing in silico methods for better antibody engineering and protein design.
 
-## Featured Projects
+### Featured Projects
 
 <table>
   <tr>
