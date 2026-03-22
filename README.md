@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahdi-shafiei-bb4a531b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" />
   </a>
   <a href="https://ward.scripps.edu">
-    <img src="https://img.shields.io/badge/Lab_Website-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lab_Website-FF6F00?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:mshafiei@scripps.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
