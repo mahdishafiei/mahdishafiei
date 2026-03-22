@@ -25,12 +25,12 @@ I'm a computational biologist focused on developing in silico methods for better
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brineylab/AbLMs-scaling-laws">AbLMs Scaling Laws</a></h3>
-      <p>Investigating scaling laws for antibody language models — exploring how model size, data, and compute affect performance in immune repertoire modeling.</p>
+      <p>Investigating scaling laws for antibody language models — exploring how model size, data, and compute affect performance in immune repertoire modeling.<br/><strong><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12424686/">Paper</a></strong></p>
       <p><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mahdishafiei/Brain-Tumor-Semantic-segmentation">Brain Tumor Semantic Segmentation</a></h3>
-      <p>Deep learning pipeline for semantic segmentation of brain tumors from MRI scans using convolutional neural networks.</p>
+      <p>Deep learning pipeline for semantic segmentation of brain tumors from MRI scans using convolutional neural networks.<br/><strong><a href="https://jbe.tums.ac.ir/index.php/jbe/article/view/1594/501">Paper</a></strong></p>
       <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /></p>
     </td>
   </tr>
