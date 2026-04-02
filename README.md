@@ -34,7 +34,7 @@ Computational biologist at [Scripps Research](https://ward.scripps.edu) (Ward La
 | Project | Description | Venue |
 |---|---|---|
 | [AbLMs Scaling Laws](https://github.com/brineylab/AbLMs-scaling-laws) | Scaling laws for antibody language models — how model size, data, and compute affect immune repertoire modeling | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12424686/) |
-| [Brain Tumor Segmentation](https://github.com/mahdishafiei/Brain-Tomur-Semantic-segmentation) | Deep learning pipeline for semantic segmentation of brain tumors from MRI | [Paper](https://jbe.tums.ac.ir/index.php/jbe/article/view/1594/501) |
+| [Brain Tumor Segmentation](https://github.com/mahdishafiei/Brain-Tumor-Semantic-segmentation) | Deep learning pipeline for semantic segmentation of brain tumors from MRI | [Paper](https://jbe.tums.ac.ir/index.php/jbe/article/view/1594/501) |
 | [Mental Health Clustering](https://github.com/mahdishafiei/HospitalStaff-MentalHealth-Clustering) | K-means clustering on GHQ-28 data to identify distress patterns during COVID-19 | [BMC Health Serv. Res. 2023](https://doi.org/10.1186/s12913-023-10430-w) |
 | [Energy Intake Patterns](https://github.com/mahdishafiei/TemporalEnergyIntakePatterns-LCA) | Latent class analysis of temporal eating patterns and adiposity | [Br. J. Nutr. 2023](https://doi.org/10.1017/S000711452300096X) |
 
