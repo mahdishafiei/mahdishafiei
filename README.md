@@ -11,9 +11,6 @@
   <a href="https://scholar.google.com/citations?user=8L22QNQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://ward.scripps.edu">
-    <img src="https://img.shields.io/badge/Ward%20Lab-FF6F00?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="mailto:mshafiei@scripps.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
